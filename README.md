@@ -15,8 +15,9 @@
 * [How to setup a proxy server](#how-to-setup-a-proxy-server)
 
 ## Screenshots
-![Screenshot 1](https://media.discordapp.net/attachments/1081091376101457992/1114952733682847834/FRJ1wBu.png)
-![Screenshot 2](https://media.discordapp.net/attachments/1081091376101457992/1114952831363977246/VuBkSoP.png)
+|Settings|Tray Icon|
+|---|---|
+| ![Screenshot 1](https://media.discordapp.net/attachments/1081091376101457992/1114952733682847834/FRJ1wBu.png) | ![Screenshot 2](https://media.discordapp.net/attachments/1081091376101457992/1114952831363977246/VuBkSoP.png) |
 
 ## Installation
 To install HiddenGPT, download the latest release from the [releases page](https://github.com/Zebratic/HiddenGPT/releases). You can then run the executable from anywhere on your computer.
