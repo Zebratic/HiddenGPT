@@ -12,6 +12,7 @@
 * [Usage](#usage)
 * [Context Menu](#context-menu)
 * [Settings](#settings)
+* [How to setup a proxy server](#how-to-setup-a-proxy-server)
 
 ## Screenshots
 ![Screenshot 1](https://media.discordapp.net/attachments/1081091376101457992/1114952733682847834/FRJ1wBu.png)
