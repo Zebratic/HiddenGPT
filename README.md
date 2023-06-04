@@ -22,6 +22,8 @@
 ## Installation
 To install HiddenGPT, download the latest release from the [releases page](https://github.com/Zebratic/HiddenGPT/releases). You can then run the executable from anywhere on your computer.
 
+* Input your OpenAI API key into the settings (You can find it [here](https://platform.openai.com/account/api-keys))
+
 ### Run on startup?
 1. Press `Win + R` to open the run dialog
 2. Type `shell:startup` and press enter
