@@ -54,5 +54,5 @@ _(You can change any of the settings by double clicking the tray icon)_
 
 ## How to setup a proxy server
 1. Download the [hiddengpt.php](https://github.com/Zebratic/HiddenGPT/blob/main/hiddengpt.php)
-2. Upload it to a web server that runs PHP (I recommend [000webhost](https://www.000webhost.com/))
+2. Upload it to a web server that runs PHP (I recommend [000webhost](https://www.000webhost.com/) or [Replit](https://replit.com/))
 3. Change the `Proxy Url` setting to the url of that point to the file (e.g. `https://example.000webhost.com/hiddengpt.php`)
