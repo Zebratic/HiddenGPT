@@ -123,6 +123,11 @@
             // 
             this.numMaxTokens.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.numMaxTokens.Location = new System.Drawing.Point(82, 142);
+            this.numMaxTokens.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
             this.numMaxTokens.Name = "numMaxTokens";
             this.numMaxTokens.Size = new System.Drawing.Size(127, 20);
             this.numMaxTokens.TabIndex = 7;
